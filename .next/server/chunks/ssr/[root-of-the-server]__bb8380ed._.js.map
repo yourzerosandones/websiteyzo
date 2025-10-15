@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/pxsib/OneDrive/Documents/yzo/it-company-website/app/services/branding-design/brand-consulting/page.js"],"sourcesContent":["\r\n\r\nexport const metadata = {\r\n  title: 'Brand Consulting - YourZerosAndOnes',\r\n  description: 'Strategic brand development and positioning services to create a strong market presence',\r\n}"],"names":[],"mappings":";;;;AAEO,MAAM,WAAW;IACtB,OAAO;IACP,aAAa;AACf","debugId":null}}]
+}

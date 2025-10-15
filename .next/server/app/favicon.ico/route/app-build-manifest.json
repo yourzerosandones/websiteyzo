@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/favicon.ico/route": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_3f3ffc0a._.js",
+      "static/chunks/f1e6d_next_dist_compiled_react-dom_709b8d3d._.js",
+      "static/chunks/f1e6d_next_dist_compiled_next-devtools_index_16d47bae.js",
+      "static/chunks/f1e6d_next_dist_compiled_00b6197f._.js",
+      "static/chunks/f1e6d_next_dist_client_57aff8af._.js",
+      "static/chunks/f1e6d_next_dist_4fbd26b9._.js",
+      "static/chunks/f1e6d_@swc_helpers_cjs_d6f5061c._.js",
+      "static/chunks/OneDrive_Documents_yzo_it-company-website_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Documents_yzo_it-company-website_39d9b4f7._.js"
+    ]
+  }
+}

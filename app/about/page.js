@@ -116,8 +116,13 @@ export default function About() {
                 </div>
               </div>
               <div className="bg-gray-100 rounded-lg p-6 sm:p-8">
-                <div className="aspect-w-16 aspect-h-12 bg-gray-200 rounded-lg flex items-center justify-center min-h-[300px] sm:min-h-[400px]">
-                  <span className="text-gray-500 text-lg">Company Image/Video</span>
+                {/* Updated Company Image Section */}
+                <div className="aspect-w-16 aspect-h-12 rounded-lg overflow-hidden min-h-[300px] sm:min-h-[400px]">
+                  <img 
+                    src="/images/about-company.png" 
+                    alt="Your Zeros and Ones Team" 
+                    className="w-full h-full object-cover"
+                  />
                 </div>
               </div>
             </div>
