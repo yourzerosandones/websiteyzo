@@ -1,6 +1,6 @@
-# Dependencies
 node_modules/
-
-# Environment variables
+.next/
+out/
 .env
-.env*.local
+.env.local
+.DS_Store
